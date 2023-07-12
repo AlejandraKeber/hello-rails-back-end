@@ -41,7 +41,7 @@ OPTIONAL SECTIONS:
 
 # 📖 hello-rails-back-end <a name="about-project"></a>
 
-**hello-rails-back-end** is a Ruby on Rails API backend application that will be connected with a React front end application
+**hello-rails-back-end** is a Ruby on Rails API backend application that will be connected with a [React front end application](https://github.com/AlejandraKeber/hello-react-front-end.git)
 
 ## 🛠 Built With <a name="built-with"></a>
 - `Ruby on Rails`
